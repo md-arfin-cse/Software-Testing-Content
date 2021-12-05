@@ -39,9 +39,7 @@ Manual testing can be further divided into three types of testing, which are as 
 White box testing
 Black box testing
 Gray box testing
-For more information about manual testing, refers to the below link:
 
-https://www.javatpoint.com/manual-testing
 
 Automation testing
 Automation testing is a process of converting any manual test cases into the test scripts with the help of automation tools, or any programming language is known as automation testing. With the help of automation testing, we can enhance the speed of our test execution because here, we do not require any human efforts. We need to write a test script and execute those scripts.
